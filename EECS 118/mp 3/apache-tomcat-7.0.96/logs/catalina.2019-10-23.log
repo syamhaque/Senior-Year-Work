@@ -1,0 +1,86 @@
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13+33
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\conf\logging.properties
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\temp
+Oct 23, 2019 10:21:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\test\AppData\Local\Programs\Python\Python36\Scripts;C:\Users\test\AppData\Local\Programs\Python\Python36;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;.
+Oct 23, 2019 10:21:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 23, 2019 10:21:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 559 ms
+Oct 23, 2019 10:21:09 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 23, 2019 10:21:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Oct 23, 2019 10:21:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\docs
+Oct 23, 2019 10:21:10 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [211] milliseconds.
+Oct 23, 2019 10:21:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\docs has finished in 587 ms
+Oct 23, 2019 10:21:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\examples
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\examples has finished in 938 ms
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\host-manager
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\host-manager has finished in 84 ms
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\manager
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\manager has finished in 74 ms
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\ROOT
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\ROOT has finished in 57 ms
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test has finished in 55 ms
+Oct 23, 2019 10:21:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 23, 2019 10:21:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 23, 2019 10:21:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1877 ms

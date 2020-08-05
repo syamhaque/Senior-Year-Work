@@ -1,0 +1,6 @@
+#EECS 118 mp3
+#Mohammed Haque
+#62655407
+#11/18/19
+
+###EMPTY TXT FILE ONLY TO INDICATE FIRST PAGE TO OPEN IS gallerypage.py###

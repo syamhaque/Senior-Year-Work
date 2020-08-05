@@ -1,0 +1,80 @@
+Nov 12, 2019 12:01:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 12, 2019 12:01:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 12, 2019 12:01:43 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 12, 2019 12:12:07 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [Goodnight]
+Nov 12, 2019 12:13:13 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [Goodnight]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\gallerypage.py", line 23, in <module>]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\gallerypage.py", line 12, in <module>]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\gallerypage.py", line 12, in <module>]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    datetime.datetime.now()]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print("""<h1>{}</h1>""".format())]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    datetime.datetime.now()]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [AttributeError: type object 'datetime.datetime' has no attribute 'datetime']
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndexError: tuple index out of range]
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [AttributeError: type object 'datetime.datetime' has no attribute 'datetime']
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 12:13:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 3:29:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 12, 2019 3:29:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\newimage.py", line 50, in <module>]
+Nov 12, 2019 3:29:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    detail_id = row[0]+1]
+Nov 12, 2019 3:29:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [TypeError: unsupported operand type(s) for +: 'NoneType' and 'int']
+Nov 12, 2019 3:29:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 3:31:15 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 12, 2019 3:31:15 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\newimage.py", line 51, in <module>]
+Nov 12, 2019 3:31:15 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    detail_id += 1]
+Nov 12, 2019 3:31:15 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [TypeError: unsupported operand type(s) for +=: 'NoneType' and 'int']
+Nov 12, 2019 3:31:15 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 3:33:31 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 12, 2019 3:33:31 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\newimage.py", line 50, in <module>]
+Nov 12, 2019 3:33:31 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    detail_id = int(row[0])]
+Nov 12, 2019 3:33:31 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType']
+Nov 12, 2019 3:33:31 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 3:36:02 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1366, "Incorrect integer value: 'inf' for column 'width' at row 1")]
+Nov 12, 2019 3:36:02 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 12, 2019 3:36:02 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1366, "Incorrect integer value: 'inf' for column 'height' at row 1")]
+Nov 12, 2019 3:36:02 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 12, 2019 3:36:02 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 12, 2019 4:05:08 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 12, 2019 4:05:08 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 12, 2019 4:05:08 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr

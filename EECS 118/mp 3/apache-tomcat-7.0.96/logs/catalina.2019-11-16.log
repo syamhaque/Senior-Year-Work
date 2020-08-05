@@ -1,0 +1,100 @@
+Nov 16, 2019 12:25:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 57]
+Nov 16, 2019 12:25:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(art_name):]
+Nov 16, 2019 12:25:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:25:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:25:18 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:25:38 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 60]
+Nov 16, 2019 12:25:38 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(art_name):]
+Nov 16, 2019 12:25:38 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:25:38 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:25:38 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:25:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 60]
+Nov 16, 2019 12:25:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(art_name):]
+Nov 16, 2019 12:25:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:25:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:25:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:25:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 60]
+Nov 16, 2019 12:25:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(art_name):]
+Nov 16, 2019 12:25:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:25:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:25:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:26:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: '[8, 10, 11, 12, 13, 16]'")]
+Nov 16, 2019 12:26:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 16, 2019 12:26:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 16, 2019 12:26:24 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: '[8, 10, 11, 12, 13, 16]'")]
+Nov 16, 2019 12:26:24 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 16, 2019 12:26:24 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 16, 2019 12:26:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: '[8, 10, 11, 12, 13, 16]'")]
+Nov 16, 2019 12:26:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 16, 2019 12:26:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 16, 2019 12:26:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: '[8, 10, 11, 12, 13, 16]'")]
+Nov 16, 2019 12:26:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 16, 2019 12:26:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 16, 2019 12:41:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 77]
+Nov 16, 2019 12:41:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(det_loc):]
+Nov 16, 2019 12:41:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:41:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:41:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:41:53 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 77]
+Nov 16, 2019 12:41:53 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(det_loc):]
+Nov 16, 2019 12:41:53 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:41:53 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:41:53 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:41:56 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\find.py", line 77]
+Nov 16, 2019 12:41:56 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    elif(det_loc):]
+Nov 16, 2019 12:41:56 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [       ^]
+Nov 16, 2019 12:41:56 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [IndentationError: expected an indented block]
+Nov 16, 2019 12:41:56 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 16, 2019 12:48:33 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'Naruto'")]
+Nov 16, 2019 12:48:33 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 16, 2019 12:48:33 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr

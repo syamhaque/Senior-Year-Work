@@ -1,0 +1,726 @@
+Oct 18, 2019 12:06:14 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:06:49 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:06:51 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:07:28 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<TITLE>Mini Project 2</TITLE>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<H1>Mini Project 2 by Mohammed Haque (62655407)</H1>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<form enctype = 'multipart/form-data' action = 'mp2_62655407.py' method = 'post'>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<p><input type = 'submit' value = 'Upload' /></p>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</form>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 18, 2019 12:09:45 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<TITLE>Mini Project 2</TITLE>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<H1>Mini Project 2 by Mohammed Haque (62655407)</H1>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<form enctype = 'multipart/form-data' action = 'mp2_62655407.py' method = 'post'>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<p><input type = 'submit' value = 'Upload' /></p>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</form>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 18, 2019 12:10:01 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 18, 2019 12:26:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:31:00 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:31:52 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:32:11 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:32:36 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:46:48 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:50:32 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:51:25 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:51:33 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:51:44 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:51:56 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:51:57 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+WARNING: I/O problems processing CGI
+java.io.IOException: The pipe has been ended
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:348)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:127)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:76)
+	at org.apache.catalina.util.IOTools.flow(IOTools.java:87)
+	at org.apache.catalina.servlets.CGIServlet$CGIRunner.run(CGIServlet.java:1686)
+	at org.apache.catalina.servlets.CGIServlet.doGet(CGIServlet.java:643)
+	at org.apache.catalina.servlets.CGIServlet.service(CGIServlet.java:606)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:444)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:1025)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1137)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:319)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<head>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<title>Hello Word - First CGI Program</title>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</head>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h2>Hello Word! This is my first CGI program</h2>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 18, 2019 12:52:16 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<head>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<title>Hello Word - First CGI Program</title>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</head>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h2>Hello Word! This is my first CGI program</h2>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 18, 2019 12:52:19 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<head>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<title>Hello Word - First CGI Program</title>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</head>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h2>Hello Word! This is my first CGI program</h2>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 18, 2019 12:52:21 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<head>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<title>Hello Word - First CGI Program</title>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</head>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h2>Hello Word! This is my first CGI program</h2>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 18, 2019 12:52:26 AM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 18, 2019 12:53:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62655407.py", line 15]
+Oct 18, 2019 12:53:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print "<font size=+1>Environment</font><\br>";]
+Oct 18, 2019 12:53:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                                                ^]
+Oct 18, 2019 12:53:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: Missing parentheses in call to 'print'. Did you mean print("<font size=+1>Environment</font><\br>")?]
+Oct 18, 2019 12:53:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 18, 2019 12:53:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62655407.py", line 15]
+Oct 18, 2019 12:53:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print "<font size=+1>Environment</font><\br>";]
+Oct 18, 2019 12:53:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                                                ^]
+Oct 18, 2019 12:53:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: Missing parentheses in call to 'print'. Did you mean print("<font size=+1>Environment</font><\br>")?]
+Oct 18, 2019 12:53:41 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 18, 2019 12:54:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62655407.py", line 11]
+Oct 18, 2019 12:54:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print "Content-type:text/html\r\n\r\n"]
+Oct 18, 2019 12:54:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                                         ^]
+Oct 18, 2019 12:54:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-type:text/html\r\n\r\n")?]
+Oct 18, 2019 12:54:40 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 18, 2019 12:54:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62655407.py", line 11]
+Oct 18, 2019 12:54:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print "Content-type:text/html\r\n\r\n"]
+Oct 18, 2019 12:54:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                                         ^]
+Oct 18, 2019 12:54:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-type:text/html\r\n\r\n")?]
+Oct 18, 2019 12:54:42 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 18, 2019 1:01:04 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\mp2_62655407.py", line 20]
+Oct 18, 2019 1:01:04 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    <form action = "/cgi-bin/hello_get.py" method = "get">]
+Oct 18, 2019 1:01:04 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    ^]
+Oct 18, 2019 1:01:04 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: invalid syntax]
+Oct 18, 2019 1:01:04 AM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr

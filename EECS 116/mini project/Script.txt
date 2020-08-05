@@ -1,0 +1,52 @@
+select topic.id, topic.description, IFNULL(COUNT(blurt_analysis.topicid),0) as count
+from topic left join blurt_analysis on topic.id = blurt_analysis.topicid
+group by topic.id
+order by topic.id;
+
+select user.name, count(follow.followee) as followers
+from celebrity, follow, user
+where follow.followee = celebrity.email and follow.followee = user.email
+group by follow.followee;
+
+select user.name, count(blurt.email) as blurts
+from celebrity, user, blurt
+where blurt.email = user.email and blurt.email = celebrity.email
+group by celebrity.email
+order by blurts desc;
+
+select user.name
+from celebrity, user
+where celebrity.email = user.email
+and celebrity.email not in (select follower from follow);
+
+select vendor.name, vendor_ambassador.email, count(follow.followee) as followers
+from vendor, vendor_ambassador, user, follow
+where vendor.id = vendor_ambassador.vendorid and vendor_ambassador.email = user.email and vendor_ambassador.email = follow.followee
+group by vendor_ambassador.email;
+
+select v1.name, count(distinct b1.email) as "advertisement-gap"
+from vendor as v1, vendor_topics as vt, blurt as b1, blurt_analysis as ba1
+where vt.vendorid = v1.id and ba1.topicid = vt.topicid and ba1.blurtid = b1.blurtid and ba1.email = b1.email
+and b1.email 
+not in (select b2.email
+		from vendor as v2, blurt_analysis as ba2, blurt as b2, advertisement as a, user_ad as ua
+		where a.vendorid = vt.vendorid and ba2.topicid = vt.topicid and ua.adid=a.id 
+        and ua.email = b2.email and b2.email = ba2.email and ua.email = b1.email)
+group by vt.vendorid
+order by count(distinct b1.email) desc;
+
+select distinct A.name, B.name
+from blurt_analysis Ab, blurt_analysis Bb, user A, user B
+where Ab.email != Bb.email and Ab.email = A.email and Bb.email = B.email and Ab.topicid = Bb.topicid
+and Ab.email not in (select follow.follower from follow where follow.followee = Bb.email);
+
+select distinct Af.follower as A, Af.followee as B, Bf.followee as C
+from follow Af, follow Bf
+where Af.followee = Bf.follower and Bf.followee != Af.follower
+and (Af.follower, Bf.followee) not in (select * from follow);
+
+select topic.id, topic.description, blurt.location, count(blurt.email) as total_blurts, avg(blurt_analysis.sentiment) as average_sentiment
+from topic, blurt, blurt_analysis
+where topic.id = blurt_analysis.topicid and blurt_analysis.email = blurt.email and blurt_analysis.blurtid = blurt.blurtid
+group by topic.id, topic.description, blurt.location
+having average_sentiment < 0;

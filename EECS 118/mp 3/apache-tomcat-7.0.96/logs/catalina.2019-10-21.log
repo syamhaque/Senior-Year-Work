@@ -1,0 +1,208 @@
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<head>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<title>Mini Project 2</title>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</head>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1>Mini Project 2 by Mohammed Haque (62655407)</h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<form action = "mp2_62655407.py" method = "get">]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<input type = "submit" value = "Submit" />]
+Oct 21, 2019 7:08:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</form>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<head>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<title>Mini Project 2</title>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</head>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1>Mini Project 2 by Mohammed Haque (62655407)</h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<form action = "mp2_62655407.py" method = "get">]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<h1></h1>]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<input type = "submit" value = "Submit" />]
+Oct 21, 2019 7:08:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</form>]
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\uploadpage.py", line 62, in <module>]
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print(form['pic1_url'])]
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\cgi.py", line 609, in __getitem__]
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise KeyError(key)]
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [KeyError: 'pic1_url']
+Oct 21, 2019 7:58:55 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [6] lines on stderr
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<html>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<body>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<script>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [function ChangeText()]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [{]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [document.getElementById("para").innerHTML = "Here is something new."';]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [}]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</script>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</body>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<p id="para">This will be replaced.</p>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [<button type="button" onclick='ChangeText()'>Change Text</button>]
+Oct 21, 2019 7:58:59 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [</html>]
+Oct 21, 2019 8:16:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 8:16:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\uploadpage.py", line 63, in <module>]
+Oct 21, 2019 8:16:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print(pic1url)]
+Oct 21, 2019 8:16:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [NameError: name 'pic1url' is not defined]
+Oct 21, 2019 8:16:13 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 8:26:07 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [asacs]
+Oct 21, 2019 8:53:16 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 30]
+Oct 21, 2019 8:53:16 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    print("<p id="para">This will be replaced.</p>")]
+Oct 21, 2019 8:53:16 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [                     ^]
+Oct 21, 2019 8:53:16 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [SyntaxError: invalid syntax]
+Oct 21, 2019 8:53:16 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 9:24:20 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 9:24:20 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 31, in <module>]
+Oct 21, 2019 9:24:20 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </script>""".format(pic2_url))]
+Oct 21, 2019 9:24:20 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Oct 21, 2019 9:24:20 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 9:24:32 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 9:24:32 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 29, in <module>]
+Oct 21, 2019 9:24:32 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </script>""".format(pic2_url))]
+Oct 21, 2019 9:24:32 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Oct 21, 2019 9:24:32 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 9:40:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 9:40:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 39, in <module>]
+Oct 21, 2019 9:40:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </script>""".format(pic1_title))]
+Oct 21, 2019 9:40:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Oct 21, 2019 9:40:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 9:40:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 9:40:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 39, in <module>]
+Oct 21, 2019 9:40:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </script>""".format(pic1_title))]
+Oct 21, 2019 9:40:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Oct 21, 2019 9:40:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 9:42:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 9:42:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 39, in <module>]
+Oct 21, 2019 9:42:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </script>""" % pic1_title, pic1_url)]
+Oct 21, 2019 9:42:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [TypeError: not enough arguments for format string]
+Oct 21, 2019 9:42:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Oct 21, 2019 9:42:25 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Oct 21, 2019 9:42:25 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 2\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\outputpage.py", line 39, in <module>]
+Oct 21, 2019 9:42:25 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </script>""" % pic1_title, pic1_url)]
+Oct 21, 2019 9:42:25 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [TypeError: not enough arguments for format string]
+Oct 21, 2019 9:42:25 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr

@@ -1,0 +1,12 @@
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\advertisement.csv" INTO TABLE advertisement COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\blurt.csv" INTO TABLE blurt COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\blurt_analysis.csv" INTO TABLE blurt_analysis COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\celebrity.csv" INTO TABLE celebrity COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\follow.csv" INTO TABLE follow COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\hobby.csv" INTO TABLE hobby COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\topic.csv" INTO TABLE topic COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\user.csv" INTO TABLE user COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\user_ad.csv" INTO TABLE user_ad COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\vendor.csv" INTO TABLE vendor COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\vendor_ambassador.csv" INTO TABLE vendor_ambassador COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INFILE "C:\\Users\\syam\\Desktop\\EECS116\\hw\\mini project\\mini project csv files\\vendor_topic.csv" INTO TABLE vendor_topics COLUMNS TERMINATED BY ',' LINES TERMINATED BY '\n';

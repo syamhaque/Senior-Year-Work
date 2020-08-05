@@ -1,0 +1,6 @@
+Node1,Node2,weight,color
+1,2,0.5,green
+1,3,0.7,green
+2,3,0.3,green
+4,5,0.4,blue
+1,4,0.6,yellow

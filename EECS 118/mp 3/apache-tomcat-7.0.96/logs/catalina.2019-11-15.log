@@ -1,0 +1,446 @@
+Nov 15, 2019 8:16:46 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jul 24 2019 13:00:10 UTC
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.96.0
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk-13
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           13+33
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\conf\logging.properties
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\temp
+Nov 15, 2019 8:18:01 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-13\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\test\AppData\Local\Programs\Python\Python36\Scripts;C:\Users\test\AppData\Local\Programs\Python\Python36;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;.
+Nov 15, 2019 8:18:01 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 15, 2019 8:18:01 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 435 ms
+Nov 15, 2019 8:18:01 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 15, 2019 8:18:01 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.96
+Nov 15, 2019 8:18:01 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\docs
+Nov 15, 2019 8:18:02 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [172] milliseconds.
+Nov 15, 2019 8:18:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\docs has finished in 467 ms
+Nov 15, 2019 8:18:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\examples
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\examples has finished in 886 ms
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\host-manager
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\host-manager has finished in 62 ms
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\manager
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\manager has finished in 76 ms
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\ROOT
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\ROOT has finished in 62 ms
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test has finished in 78 ms
+Nov 15, 2019 8:18:03 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 15, 2019 8:18:03 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 15, 2019 8:18:03 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1706 ms
+Nov 15, 2019 8:37:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1264, "Out of range value for column 'width' at row 1")]
+Nov 15, 2019 8:37:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 8:37:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1264, "Out of range value for column 'height' at row 1")]
+Nov 15, 2019 8:37:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 8:37:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 8:38:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1264, "Out of range value for column 'width' at row 1")]
+Nov 15, 2019 8:38:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 8:38:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1264, "Out of range value for column 'height' at row 1")]
+Nov 15, 2019 8:38:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 8:38:33 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 9:15:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:15:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:15:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:16:09 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:16:09 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:16:09 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:16:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:16:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:16:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:23:11 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:23:11 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:23:11 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:25:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:25:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:25:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:26:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:26:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:26:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:27:07 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:27:07 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:27:07 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:27:39 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:27:39 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:27:39 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:31:42 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 9:31:42 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\imagepage.py", line 42, in <module>]
+Nov 15, 2019 9:31:42 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </html>""".format(gallery_id))]
+Nov 15, 2019 9:31:42 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Nov 15, 2019 9:31:42 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 9:35:28 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 9:35:28 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\imagepage.py", line 30, in <module>]
+Nov 15, 2019 9:35:28 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </html>""".format(gallery_id))]
+Nov 15, 2019 9:35:28 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [KeyError: '\n      window']
+Nov 15, 2019 9:35:28 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 9:36:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 9:36:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\imagepage.py", line 42, in <module>]
+Nov 15, 2019 9:36:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </html>""".format(gallery_id))]
+Nov 15, 2019 9:36:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Nov 15, 2019 9:36:24 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 9:36:26 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 9:36:26 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\imagepage.py", line 42, in <module>]
+Nov 15, 2019 9:36:26 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    </html>""".format(gallery_id))]
+Nov 15, 2019 9:36:26 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [ValueError: unexpected '{' in field name]
+Nov 15, 2019 9:36:26 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 9:46:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1264, "Out of range value for column 'width' at row 1")]
+Nov 15, 2019 9:46:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:46:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:47:52 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:47:52 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:47:52 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:47:56 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:47:56 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:47:56 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:48:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:48:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:48:47 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 9:48:54 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 9:48:54 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 9:48:54 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:10:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:10:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:10:44 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:11:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:11:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:11:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:11:04 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:11:04 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:11:04 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:11:37 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:11:37 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:11:37 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:12:00 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:12:00 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:12:00 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:12:11 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:12:11 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:12:11 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:12:48 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py:170: Warning: (1292, "Truncated incorrect DOUBLE value: 'None'")]
+Nov 15, 2019 10:12:48 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  result = self._query(query)]
+Nov 15, 2019 10:12:48 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [2] lines on stderr
+Nov 15, 2019 10:45:41 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 10:45:41 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\detailpage.py", line 81, in <module>]
+Nov 15, 2019 10:45:41 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    det_width, det_height, det_loc, det_desc))]
+Nov 15, 2019 10:45:41 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [KeyError: '\n  window']
+Nov 15, 2019 10:45:41 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [4] lines on stderr
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\modify.py", line 54, in <module>]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    cur.execute(sql)]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 170, in execute]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result = self._query(query)]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 328, in _query]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    conn.query(q)]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 517, in query]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    self._affected_rows = self._read_query_result(unbuffered=unbuffered)]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result.read()]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 1075, in read]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    first_packet = self.connection._read_packet()]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 684, in _read_packet]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    packet.check_error()]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\protocol.py", line 220, in check_error]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    err.raise_mysql_exception(self._data)]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise errorclass(errno, errval)]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'height = '1290193', location = 'star base', description = 'love train'\n        W' at line 2")]
+Nov 15, 2019 11:32:29 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [20] lines on stderr
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\modify.py", line 54, in <module>]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    cur.execute(sql)]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 170, in execute]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result = self._query(query)]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 328, in _query]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    conn.query(q)]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 517, in query]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    self._affected_rows = self._read_query_result(unbuffered=unbuffered)]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result.read()]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 1075, in read]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    first_packet = self.connection._read_packet()]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 684, in _read_packet]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    packet.check_error()]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\protocol.py", line 220, in check_error]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    err.raise_mysql_exception(self._data)]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise errorclass(errno, errval)]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'height = '1290193', location = 'star base', description = 'love train'\n        W' at line 2")]
+Nov 15, 2019 11:35:17 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [20] lines on stderr
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\modify.py", line 54, in <module>]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    cur.execute(sql)]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 170, in execute]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result = self._query(query)]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 328, in _query]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    conn.query(q)]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 517, in query]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    self._affected_rows = self._read_query_result(unbuffered=unbuffered)]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result.read()]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 1075, in read]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    first_packet = self.connection._read_packet()]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 684, in _read_packet]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    packet.check_error()]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\protocol.py", line 220, in check_error]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    err.raise_mysql_exception(self._data)]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise errorclass(errno, errval)]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [pymysql.err.DataError: (1264, "Out of range value for column 'width' at row 2")]
+Nov 15, 2019 11:36:02 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [20] lines on stderr
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [Traceback (most recent call last):]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\Desktop\EECS 118\mini projects\mp 3\apache-tomcat-7.0.96\webapps\test\WEB-INF\cgi\modify.py", line 52, in <module>]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    cur.execute(sql)]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 170, in execute]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result = self._query(query)]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\cursors.py", line 328, in _query]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    conn.query(q)]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 517, in query]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    self._affected_rows = self._read_query_result(unbuffered=unbuffered)]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 732, in _read_query_result]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    result.read()]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 1075, in read]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    first_packet = self.connection._read_packet()]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\connections.py", line 684, in _read_packet]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    packet.check_error()]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\protocol.py", line 220, in check_error]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    err.raise_mysql_exception(self._data)]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [  File "C:\Users\test\AppData\Local\Programs\Python\Python36\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [    raise errorclass(errno, errval)]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: stderr line: [pymysql.err.DataError: (1264, "Out of range value for column 'width' at row 2")]
+Nov 15, 2019 11:37:14 PM org.apache.catalina.servlets.CGIServlet$CGIRunner sendToLog
+WARNING: Received [20] lines on stderr

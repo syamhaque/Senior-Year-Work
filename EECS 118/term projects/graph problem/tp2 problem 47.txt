@@ -1,0 +1,1 @@
+find s where is_path(s, A, B) and total_weight(s, t) and color(s, Color, u) and t>C and u=D

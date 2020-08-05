@@ -1,0 +1,4 @@
+Nov 11, 2019 11:22:21 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [hello]
+Nov 11, 2019 11:22:31 PM org.apache.catalina.servlets.CGIServlet$CGIRunner run
+INFO: Bad header line [hello]
